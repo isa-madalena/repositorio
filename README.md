@@ -1,3 +1,3 @@
 repositorio
 
-Este é im _teste_ de **repoitorio**
+Este é um _teste_ de **repoitorio**
