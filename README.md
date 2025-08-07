@@ -1,3 +1,3 @@
 repositorio
 
-Este é um _teste_ de **repoitorio**
+Este é uma _página_ de **repositório**
